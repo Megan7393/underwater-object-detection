@@ -1,0 +1,5 @@
+class,YOLOv8n_AP_50_95,Faster_R_CNN_AP_50_95,DETR_AP_50_95
+holothurian,0.3879,0.4561,0.218
+echinus,0.6158,0.619,0.3618
+scallop,0.2137,0.2695,0.0578
+starfish,0.5649,0.5437,0.3057

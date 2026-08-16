@@ -1,0 +1,2 @@
+model,dataset,best_epoch,mAP_50,mAP_50_95,average_inference_seconds,fps,test_images
+Faster R-CNN ResNet50-FPN,RUOD test,6,0.7546210289001465,0.45713692903518677,0.9724387610477528,1.0283423903450242,4200

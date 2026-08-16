@@ -1,0 +1,4 @@
+model,mAP_50,mAP_50_95,inference_ms_per_image,fps
+Faster R-CNN ResNet50-FPN,0.6949,0.4721,530.85,1.88
+YOLOv8n,0.6542,0.4456,18.3,54.6
+DETR ResNet-50,0.4659,0.2359,146.26,6.84

@@ -1,0 +1,2 @@
+model,dataset,best_epoch,mAP_50,mAP_50_95,average_inference_seconds,fps,test_images
+DETR ResNet-50,DUO test,12,0.46585574746131897,0.23586353659629822,0.14626225436644497,6.837033958840832,1111

@@ -1,0 +1,11 @@
+path: C:/Users/megdo/Desktop/underwater-object-detection/data/processed/DUO_yolo
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: holothurian
+  1: echinus
+  2: scallop
+  3: starfish

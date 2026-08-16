@@ -1,0 +1,2 @@
+model,dataset,image_size,epochs_planned,mAP_0.5,mAP_0.5_0.95,precision,recall,f1_score,inference_ms_per_image,approx_fps,device
+YOLOv8n,DUO,416,30,0.6542,0.4456,0.7273,0.5771,0.6436,18.3,54.6448087431694,CPU

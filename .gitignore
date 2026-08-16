@@ -1,0 +1,22 @@
+# Raw data / datasets
+data/
+datasets/
+
+# Model weights and checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Training outputs
+runs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
